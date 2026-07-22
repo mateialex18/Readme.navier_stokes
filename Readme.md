@@ -16,5 +16,5 @@ Voici les pages complètes de l'analyse analytique :
 
 ![Page 7](Navier-stokes_Gallery7.jpg)
 
-![Page 8]
+![Page 8](Screenshot_20260722_233336.jpg)
 

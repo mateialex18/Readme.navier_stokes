@@ -1,3 +1,18 @@
+
+## 🔒 Propriété Intellectuelle et Droits d'Auteur
+
+**© 2026 - Tous droits réservés.**
+
+L'intégralité des concepts géométriques, descriptions textuelles, données visuelles et méthodologies de simulation présentés dans ce dépôt sont la propriété exclusive de leur auteur. 
+
+*   **Code source privé** : Les scripts algorithmiques sous-jacents (incluant les modélisations multidimensionnelles, les fonctions de Lyapounov personnalisées et les moteurs de simulation physique) sont conservés dans un environnement privé sécurisé et ne sont pas open-source.
+*   **Restrictions d'utilisation** : Aucune partie de ce travail (visuels, tableaux ou théories) ne peut être copiée, reproduite, modifiée ou intégrée dans un autre projet de recherche, logiciel ou modèle d'intelligence artificielle sans une autorisation écrite préalable de l'auteur.
+*   **Horodatage cryptographique** : Les commits et l'historique de ce dépôt font foi de preuve d'antériorité et de paternité intellectuelle à l'échelle internationale
+
+
+
+
+
 ## Asymptotic Ultra-Long Term Stability Verification (500,000 Steps)
 The regularized system was subjected to a rigorous, high-density temporal integration suite using our pseudo-spectral solver to test for structural stability and blow-up mitigation over an extended physical time horizon.
 
